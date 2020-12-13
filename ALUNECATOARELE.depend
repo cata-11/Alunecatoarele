@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604270432 source:z:\codeblocks\alunecatoarele\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
